@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NotesScaleFactor</key>
+	<real>1</real>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {265, 650}}</string>
+		<string>{{266, 0}, {734, 650}}</string>
+	</array>
+	<key>bookmarksSelectionInfo</key>
+	<dict>
+		<key>1055430E-3320-4A8E-9BEF-5BAFFFBE6B70</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+	</dict>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>inspectorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {512, 640}}</string>
+	</array>
+	<key>inspectorWidth</key>
+	<real>245</real>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {590, 564}}</string>
+	<key>mainWindowFrame</key>
+	<string>0 737 1000 678 0 0 2560 1415 </string>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {590, 294}}</string>
+	<key>supportingDocumentViewIsCurrent</key>
+	<false/>
+</dict>
+</plist>

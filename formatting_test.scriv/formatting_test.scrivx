@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="5AC9C4A1-367D-4233-A5DB-B860BA3A9941" Creator="SCRWIN-3.1.5.1" Device="Win10" Modified="2024-01-28 21:19:12 +0100" ModID="8D7B362B-C604-46D3-A772-BD3C6689A33B">
+<ScrivenerProject Identifier="5AC9C4A1-367D-4233-A5DB-B860BA3A9941" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="GunpowderSally" Author="AmberV" Modified="2024-01-28 21:43:19 +0100" ModID="A03DA548-689C-427A-9671-377B04C290D0">
     <Binder>
         <BinderItem UUID="6746A5A1-CF3B-4F3D-9C86-5E9B8EE48F28" Type="DraftFolder" Created="2024-01-28 21:14:29 +0100" Modified="2024-01-28 21:14:29 +0100">
             <Title>Draft</Title>
@@ -7,14 +7,14 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="1055430E-3320-4A8E-9BEF-5BAFFFBE6B70" Type="Text" Created="2024-01-23 16:05:25 +0100" Modified="2024-01-28 21:19:02 +0100">
+                <BinderItem UUID="1055430E-3320-4A8E-9BEF-5BAFFFBE6B70" Type="Text" Created="2024-01-23 16:05:25 +0100" Modified="2024-01-28 21:43:19 +0100">
                     <Title>lorem</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>241,0</TextSelection>
+                        <TextSelection>26,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -33,12 +33,12 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="E2F7A04A-1DEC-48EF-8E7E-A3566762C71F" Color="0.682353 0.749020 0.709804">
+        <Collection Type="Binder" ID="E2F7A04A-1DEC-48EF-8E7E-A3566762C71F" Color="0.152941 0.058824 0.098039">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="CE94AED1-6E66-4AD5-9E13-35586DF15175" Color="0.474510 0.564706 0.525490">
+        <Collection Type="RecentSearch" ID="CE94AED1-6E66-4AD5-9E13-35586DF15175" Color="0.613391 0.550395 0.441185">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -64,7 +64,7 @@
         <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
-            <Label ID="0" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="0" Color="0.9935 0.701213 0.732586">Red</Label>
             <Label ID="1" Color="0.995422 0.790951 0.652384">Orange</Label>
             <Label ID="2" Color="0.997726 0.892729 0.652567">Yellow</Label>
             <Label ID="3" Color="0.715862 0.948714 0.697688">Green</Label>
@@ -87,17 +87,17 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-01-28 21:14:29 +0100" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="44" Characters="282" Date="2024-01-28 21:19:12 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" NextResetDate="2024-01-29 01:00:00 +0100" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
+        <PreviousSession Words="50" Characters="309" Date="2024-01-28 21:41:34 +0100"/>
     </ProjectTargets>
-    <BackupSettings>
-        <Exclude>Yes</Exclude>
-    </BackupSettings>
     <RecentWritingHistory Date="2024-01-28 00:00:00 +0100">
-        <DraftWordCount>56</DraftWordCount>
-        <DraftCharCount>378</DraftCharCount>
+        <DraftWordCount>62</DraftWordCount>
+        <DraftCharCount>405</DraftCharCount>
         <OtherWordCount>-12</OtherWordCount>
         <OtherCharCount>-96</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+    <BackupSettings>
+        <Exclude>Yes</Exclude>
+    </BackupSettings>
+    <PrintSettings PaperSize="595.275546,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SearchIndexes Version="1.0">
-    <Documents>
-        <Document ID="1055430E-3320-4A8E-9BEF-5BAFFFBE6B70">
-            <Title>lorem</Title>
-            <Text>This was added on the Mac.
-Paragraph formatting is saved into the project as default formatting. It should be, on both systems:
+<SnapshotIndexes Version="1.0" BinderUUID="1055430E-3320-4A8E-9BEF-5BAFFFBE6B70">
+    <Snapshot Date="2024-01-28 21:42:55 +0100">
+        <Title>Untitled Snapshot</Title>
+        <Text>Paragraph formatting is saved into the project as default formatting. It should be, on both systems:
 * 3pt/3pt before/after paragraph spacing
 * 1.5x line-height multiplier.
 * 1cm first-line indent; 0cm all other indents
@@ -23,6 +21,5 @@ Zorl tharn srung kurnap velar xu wex er dwint gra vo zorl; irpsa cree la vo lydr
 Erk flim anu rhull anu, lydran wex furng morvit delm. Pank nalista, whik nix vusp obrikt dri thung nalista morvit zeuhl, kurnap berot qi prinquis berot. Twock erk erc er... morvit galph ewayf frimba morvit sernag er prinquis? Vo prinquis zeuhl, anu zeuhl la arka erc epp, zeuhl re relnag wynlarce su urfa. 
 Su, er velar cree brul yem, gronk helk anu gen athran yiphras ti athran harle ju quolt gen menardis urfa epp ewayf groum. Dwint qi athran sernag anu kurnap arul. Er fli yiphras sernag vo kurnap dwint vusp obrikt rhull gen. Helk yiphras er arul wynlarce korsa arul... korsa tolaspa anu wynlarce lamax srung. Ux ik xu rintax nix. Sernag teng, yiphras erk tolaspa---gen ux velar ik irpsa menardis arul ux obrikt yem zeuhl. Lamax su dri er anu; ewayf er jince, wex er arul flim erk fli. Relnag jince wynlarce jince prinquis. Tharn jince vusp er... gra, korsa yem. Dri la berot ozlint; clum twock, anu rhull dri helk, vusp zorl rintax obrikt wex. Twock lydran arka harle re nalista groum quolt; menardis ma brul qi pank berot dri morvit, erc kurnap delm.
 </Text>
-        </Document>
-    </Documents>
-</SearchIndexes>
+    </Snapshot>
+</SnapshotIndexes>
