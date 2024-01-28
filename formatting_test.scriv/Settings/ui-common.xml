@@ -53,14 +53,14 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1" Active="Editor1">
+    <Editors Primary="Editor1">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
-                <SelectionAffects>Current</SelectionAffects>
+                <SelectionAffects>None</SelectionAffects>
                 <Content>
                     <ItemID>1055430E-3320-4A8E-9BEF-5BAFFFBE6B70</ItemID>
                 </Content>
@@ -79,7 +79,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>241,0</Selection>
+                <Selection>26,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -118,9 +118,8 @@
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
-                <SelectionAffects>Current</SelectionAffects>
-                <Content/>
-                <NavigationHistory CurrentIndex="-1"/>
+                <SelectionAffects>None</SelectionAffects>
+                <NavigationHistory CurrentIndex="0"/>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>
